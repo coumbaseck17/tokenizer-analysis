@@ -1,0 +1,8 @@
+notebook
+numpy
+pandas
+transformers
+python-iso639
+torch
+matplotlib
+scipy
