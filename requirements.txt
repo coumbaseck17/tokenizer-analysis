@@ -6,3 +6,4 @@ python-iso639
 torch
 matplotlib
 scipy
+plotly
