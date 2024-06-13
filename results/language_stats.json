@@ -1,0 +1,1022 @@
+{
+    "bam_Latn": {
+        "num_tokens": 40334,
+        "num_words": 21567,
+        "ratio": 1.8701720220707563
+    },
+    "vec_Latn": {
+        "num_tokens": 41381,
+        "num_words": 22848,
+        "ratio": 1.8111432072829132
+    },
+    "prs_Arab": {
+        "num_tokens": 42317,
+        "num_words": 23167,
+        "ratio": 1.8266068114127854
+    },
+    "tuk_Latn": {
+        "num_tokens": 50069,
+        "num_words": 16991,
+        "ratio": 2.946795362250603
+    },
+    "tgl_Latn": {
+        "num_tokens": 46646,
+        "num_words": 25415,
+        "ratio": 1.8353728113318906
+    },
+    "fij_Latn": {
+        "num_tokens": 43985,
+        "num_words": 28639,
+        "ratio": 1.5358427319389643
+    },
+    "nld_Latn": {
+        "num_tokens": 43327,
+        "num_words": 22066,
+        "ratio": 1.9635185353031814
+    },
+    "luo_Latn": {
+        "num_tokens": 41233,
+        "num_words": 23225,
+        "ratio": 1.7753713670613562
+    },
+    "arb_Latn": {
+        "num_tokens": 54646,
+        "num_words": 21316,
+        "ratio": 2.5636141865265527
+    },
+    "run_Latn": {
+        "num_tokens": 45865,
+        "num_words": 19169,
+        "ratio": 2.3926652407532996
+    },
+    "eus_Latn": {
+        "num_tokens": 44228,
+        "num_words": 16972,
+        "ratio": 2.6059391939665333
+    },
+    "lim_Latn": {
+        "num_tokens": 43657,
+        "num_words": 21222,
+        "ratio": 2.057157666572425
+    },
+    "kan_Knda": {
+        "num_tokens": 63568,
+        "num_words": 15430,
+        "ratio": 4.119766688269604
+    },
+    "ydd_Hebr": {
+        "num_tokens": 55833,
+        "num_words": 22010,
+        "ratio": 2.5367105860972283
+    },
+    "bel_Cyrl": {
+        "num_tokens": 62887,
+        "num_words": 20511,
+        "ratio": 3.0660133586855833
+    },
+    "kik_Latn": {
+        "num_tokens": 49302,
+        "num_words": 22887,
+        "ratio": 2.154148643334644
+    },
+    "mlt_Latn": {
+        "num_tokens": 52791,
+        "num_words": 18465,
+        "ratio": 2.8589764419171404
+    },
+    "kmb_Latn": {
+        "num_tokens": 42699,
+        "num_words": 21844,
+        "ratio": 1.954724409448819
+    },
+    "mar_Deva": {
+        "num_tokens": 49230,
+        "num_words": 18065,
+        "ratio": 2.725159147522834
+    },
+    "min_Latn": {
+        "num_tokens": 37765,
+        "num_words": 19458,
+        "ratio": 1.9408469524103196
+    },
+    "umb_Latn": {
+        "num_tokens": 41272,
+        "num_words": 17187,
+        "ratio": 2.4013498574503984
+    },
+    "kas_Arab": {
+        "num_tokens": 53281,
+        "num_words": 22062,
+        "ratio": 2.415057565043967
+    },
+    "ewe_Latn": {
+        "num_tokens": 43165,
+        "num_words": 24251,
+        "ratio": 1.7799266009649086
+    },
+    "lmo_Latn": {
+        "num_tokens": 48897,
+        "num_words": 25531,
+        "ratio": 1.9152011280404215
+    },
+    "wol_Latn": {
+        "num_tokens": 41452,
+        "num_words": 23580,
+        "ratio": 1.7579304495335029
+    },
+    "tam_Taml": {
+        "num_tokens": 62530,
+        "num_words": 16134,
+        "ratio": 3.8756662947812073
+    },
+    "fao_Latn": {
+        "num_tokens": 44644,
+        "num_words": 20308,
+        "ratio": 2.198345479613945
+    },
+    "slk_Latn": {
+        "num_tokens": 48947,
+        "num_words": 18945,
+        "ratio": 2.5836368434943258
+    },
+    "deu_Latn": {
+        "num_tokens": 48928,
+        "num_words": 20903,
+        "ratio": 2.340716643543989
+    },
+    "mya_Mymr": {
+        "num_tokens": 61395,
+        "num_words": 10036,
+        "ratio": 6.117477082502989
+    },
+    "awa_Deva": {
+        "num_tokens": 43453,
+        "num_words": 24604,
+        "ratio": 1.7660949439115592
+    },
+    "kor_Hang": {
+        "num_tokens": 43855,
+        "num_words": 14764,
+        "ratio": 2.970400975345435
+    },
+    "apc_Arab": {
+        "num_tokens": 37796,
+        "num_words": 17229,
+        "ratio": 2.1937431075512217
+    },
+    "hne_Deva": {
+        "num_tokens": 44670,
+        "num_words": 24265,
+        "ratio": 1.840923140325572
+    },
+    "mkd_Cyrl": {
+        "num_tokens": 50564,
+        "num_words": 20534,
+        "ratio": 2.462452517775397
+    },
+    "kat_Geor": {
+        "num_tokens": 67036,
+        "num_words": 16510,
+        "ratio": 4.060327074500303
+    },
+    "rus_Cyrl": {
+        "num_tokens": 55878,
+        "num_words": 19161,
+        "ratio": 2.916236104587443
+    },
+    "aeb_Arab": {
+        "num_tokens": 39729,
+        "num_words": 18069,
+        "ratio": 2.1987381703470033
+    },
+    "bjn_Arab": {
+        "num_tokens": 48054,
+        "num_words": 19125,
+        "ratio": 2.5126274509803923
+    },
+    "hat_Latn": {
+        "num_tokens": 38462,
+        "num_words": 22106,
+        "ratio": 1.7398896227268614
+    },
+    "hau_Latn": {
+        "num_tokens": 42109,
+        "num_words": 24217,
+        "ratio": 1.738819837304373
+    },
+    "glg_Latn": {
+        "num_tokens": 42792,
+        "num_words": 22657,
+        "ratio": 1.8886878227479367
+    },
+    "swe_Latn": {
+        "num_tokens": 40841,
+        "num_words": 19690,
+        "ratio": 2.0742001015744034
+    },
+    "mni_Beng": {
+        "num_tokens": 55223,
+        "num_words": 18290,
+        "ratio": 3.019300164024057
+    },
+    "ben_Beng": {
+        "num_tokens": 55254,
+        "num_words": 18756,
+        "ratio": 2.9459373000639797
+    },
+    "fuv_Latn": {
+        "num_tokens": 38396,
+        "num_words": 21744,
+        "ratio": 1.7658204562178073
+    },
+    "pap_Latn": {
+        "num_tokens": 41176,
+        "num_words": 24382,
+        "ratio": 1.6887868099417602
+    },
+    "mag_Deva": {
+        "num_tokens": 42870,
+        "num_words": 23941,
+        "ratio": 1.7906520195480555
+    },
+    "vie_Latn": {
+        "num_tokens": 51618,
+        "num_words": 29193,
+        "ratio": 1.7681636008632207
+    },
+    "twi_Latn": {
+        "num_tokens": 40538,
+        "num_words": 24996,
+        "ratio": 1.6217794847175548
+    },
+    "ces_Latn": {
+        "num_tokens": 48505,
+        "num_words": 18469,
+        "ratio": 2.6262927066977095
+    },
+    "lvs_Latn": {
+        "num_tokens": 50042,
+        "num_words": 17767,
+        "ratio": 2.8165700455901392
+    },
+    "shn_Mymr": {
+        "num_tokens": 60052,
+        "num_words": 9343,
+        "ratio": 6.42748581825966
+    },
+    "est_Latn": {
+        "num_tokens": 44226,
+        "num_words": 16020,
+        "ratio": 2.7606741573033706
+    },
+    "kac_Latn": {
+        "num_tokens": 45486,
+        "num_words": 33606,
+        "ratio": 1.3535083020889127
+    },
+    "kab_Latn": {
+        "num_tokens": 50656,
+        "num_words": 21073,
+        "ratio": 2.4038342903241112
+    },
+    "sag_Latn": {
+        "num_tokens": 42186,
+        "num_words": 30097,
+        "ratio": 1.4016679403262784
+    },
+    "swh_Latn": {
+        "num_tokens": 41105,
+        "num_words": 20361,
+        "ratio": 2.0188104709984773
+    },
+    "ary_Arab": {
+        "num_tokens": 39929,
+        "num_words": 18344,
+        "ratio": 2.1766790231138247
+    },
+    "acq_Arab": {
+        "num_tokens": 40139,
+        "num_words": 18367,
+        "ratio": 2.1853868350846626
+    },
+    "oci_Latn": {
+        "num_tokens": 46586,
+        "num_words": 23267,
+        "ratio": 2.0022349250010745
+    },
+    "dik_Latn": {
+        "num_tokens": 38964,
+        "num_words": 22535,
+        "ratio": 1.7290437097847793
+    },
+    "ars_Arab": {
+        "num_tokens": 40899,
+        "num_words": 18808,
+        "ratio": 2.1745533815397704
+    },
+    "mal_Mlym": {
+        "num_tokens": 66983,
+        "num_words": 14377,
+        "ratio": 4.659038742435835
+    },
+    "gla_Latn": {
+        "num_tokens": 55487,
+        "num_words": 25888,
+        "ratio": 2.1433482694684796
+    },
+    "kea_Latn": {
+        "num_tokens": 40648,
+        "num_words": 21882,
+        "ratio": 1.8575998537610823
+    },
+    "hin_Deva": {
+        "num_tokens": 44545,
+        "num_words": 24607,
+        "ratio": 1.8102572438736946
+    },
+    "tpi_Latn": {
+        "num_tokens": 43563,
+        "num_words": 30014,
+        "ratio": 1.451422669420937
+    },
+    "srp_Cyrl": {
+        "num_tokens": 50607,
+        "num_words": 19745,
+        "ratio": 2.5630286148391996
+    },
+    "lit_Latn": {
+        "num_tokens": 47794,
+        "num_words": 16859,
+        "ratio": 2.834924965893588
+    },
+    "crh_Latn": {
+        "num_tokens": 45149,
+        "num_words": 17312,
+        "ratio": 2.6079597966728283
+    },
+    "tha_Thai": {
+        "num_tokens": 61479,
+        "num_words": 4123,
+        "ratio": 14.911229687121029
+    },
+    "azj_Latn": {
+        "num_tokens": 52149,
+        "num_words": 18316,
+        "ratio": 2.8471827910024023
+    },
+    "tur_Latn": {
+        "num_tokens": 44687,
+        "num_words": 16692,
+        "ratio": 2.6771507308890485
+    },
+    "bug_Latn": {
+        "num_tokens": 43750,
+        "num_words": 18445,
+        "ratio": 2.3719165085388996
+    },
+    "por_Latn": {
+        "num_tokens": 42613,
+        "num_words": 22409,
+        "ratio": 1.9016020348966933
+    },
+    "azb_Arab": {
+        "num_tokens": 45466,
+        "num_words": 16433,
+        "ratio": 2.7667498326538063
+    },
+    "tir_Ethi": {
+        "num_tokens": 56676,
+        "num_words": 18579,
+        "ratio": 3.0505409333118036
+    },
+    "ukr_Cyrl": {
+        "num_tokens": 55599,
+        "num_words": 18385,
+        "ratio": 3.024150122382377
+    },
+    "tum_Latn": {
+        "num_tokens": 47426,
+        "num_words": 23231,
+        "ratio": 2.0414962765270546
+    },
+    "pol_Latn": {
+        "num_tokens": 51250,
+        "num_words": 18800,
+        "ratio": 2.726063829787234
+    },
+    "epo_Latn": {
+        "num_tokens": 41642,
+        "num_words": 19987,
+        "ratio": 2.0834542452594187
+    },
+    "ace_Arab": {
+        "num_tokens": 43459,
+        "num_words": 20761,
+        "ratio": 2.0932999373825925
+    },
+    "nso_Latn": {
+        "num_tokens": 45381,
+        "num_words": 27356,
+        "ratio": 1.6589048106448312
+    },
+    "dan_Latn": {
+        "num_tokens": 41644,
+        "num_words": 20664,
+        "ratio": 2.0152922957801005
+    },
+    "tel_Telu": {
+        "num_tokens": 61249,
+        "num_words": 16388,
+        "ratio": 3.7374298267024653
+    },
+    "scn_Latn": {
+        "num_tokens": 45434,
+        "num_words": 21606,
+        "ratio": 2.102841803202814
+    },
+    "lij_Latn": {
+        "num_tokens": 49272,
+        "num_words": 24445,
+        "ratio": 2.015626917570055
+    },
+    "ltz_Latn": {
+        "num_tokens": 49266,
+        "num_words": 20692,
+        "ratio": 2.3809201623815968
+    },
+    "ilo_Latn": {
+        "num_tokens": 44574,
+        "num_words": 24685,
+        "ratio": 1.8057119708324894
+    },
+    "dzo_Tibt": {
+        "num_tokens": 92986,
+        "num_words": 6548,
+        "ratio": 14.200671960904092
+    },
+    "heb_Hebr": {
+        "num_tokens": 50858,
+        "num_words": 16733,
+        "ratio": 3.039383254646507
+    },
+    "quy_Latn": {
+        "num_tokens": 40998,
+        "num_words": 15231,
+        "ratio": 2.6917470947409887
+    },
+    "bho_Deva": {
+        "num_tokens": 44916,
+        "num_words": 24399,
+        "ratio": 1.8408951186524039
+    },
+    "knc_Arab": {
+        "num_tokens": 48143,
+        "num_words": 17579,
+        "ratio": 2.738665453097446
+    },
+    "pes_Arab": {
+        "num_tokens": 43989,
+        "num_words": 22432,
+        "ratio": 1.9609932239657633
+    },
+    "gle_Latn": {
+        "num_tokens": 52734,
+        "num_words": 24660,
+        "ratio": 2.138442822384428
+    },
+    "szl_Latn": {
+        "num_tokens": 50677,
+        "num_words": 18727,
+        "ratio": 2.7060928071768036
+    },
+    "zho_Hans": {
+        "num_tokens": 37714,
+        "num_words": 2041,
+        "ratio": 18.478196962273394
+    },
+    "kam_Latn": {
+        "num_tokens": 41340,
+        "num_words": 20356,
+        "ratio": 2.03085085478483
+    },
+    "bjn_Latn": {
+        "num_tokens": 36510,
+        "num_words": 18783,
+        "ratio": 1.9437789490496726
+    },
+    "lus_Latn": {
+        "num_tokens": 42519,
+        "num_words": 26655,
+        "ratio": 1.595160382667417
+    },
+    "pbt_Arab": {
+        "num_tokens": 50141,
+        "num_words": 26855,
+        "ratio": 1.867101098491901
+    },
+    "spa_Latn": {
+        "num_tokens": 45732,
+        "num_words": 24819,
+        "ratio": 1.8426205729481446
+    },
+    "som_Latn": {
+        "num_tokens": 47557,
+        "num_words": 22053,
+        "ratio": 2.1564866458078265
+    },
+    "hye_Armn": {
+        "num_tokens": 63848,
+        "num_words": 18495,
+        "ratio": 3.452176263855096
+    },
+    "hun_Latn": {
+        "num_tokens": 52651,
+        "num_words": 17924,
+        "ratio": 2.9374581566614597
+    },
+    "lao_Laoo": {
+        "num_tokens": 59446,
+        "num_words": 5968,
+        "ratio": 9.960790884718499
+    },
+    "dyu_Latn": {
+        "num_tokens": 42540,
+        "num_words": 23262,
+        "ratio": 1.8287335568738716
+    },
+    "zul_Latn": {
+        "num_tokens": 44393,
+        "num_words": 15057,
+        "ratio": 2.948329680547254
+    },
+    "nno_Latn": {
+        "num_tokens": 40277,
+        "num_words": 21083,
+        "ratio": 1.910401745482142
+    },
+    "ron_Latn": {
+        "num_tokens": 47909,
+        "num_words": 22717,
+        "ratio": 2.1089492450587666
+    },
+    "san_Deva": {
+        "num_tokens": 48834,
+        "num_words": 16671,
+        "ratio": 2.929278387619219
+    },
+    "xho_Latn": {
+        "num_tokens": 43350,
+        "num_words": 15051,
+        "ratio": 2.8802072951963327
+    },
+    "hrv_Latn": {
+        "num_tokens": 42877,
+        "num_words": 18839,
+        "ratio": 2.2759700621052072
+    },
+    "lug_Latn": {
+        "num_tokens": 42326,
+        "num_words": 16692,
+        "ratio": 2.5357057272945123
+    },
+    "bem_Latn": {
+        "num_tokens": 46003,
+        "num_words": 22107,
+        "ratio": 2.0809245940199936
+    },
+    "grn_Latn": {
+        "num_tokens": 45024,
+        "num_words": 16720,
+        "ratio": 2.692822966507177
+    },
+    "khm_Khmr": {
+        "num_tokens": 77554,
+        "num_words": 5684,
+        "ratio": 13.644264602392681
+    },
+    "taq_Latn": {
+        "num_tokens": 45059,
+        "num_words": 20590,
+        "ratio": 2.1883924235065564
+    },
+    "urd_Arab": {
+        "num_tokens": 49480,
+        "num_words": 26644,
+        "ratio": 1.8570785167392283
+    },
+    "slv_Latn": {
+        "num_tokens": 44107,
+        "num_words": 19323,
+        "ratio": 2.2826165709258395
+    },
+    "pag_Latn": {
+        "num_tokens": 37886,
+        "num_words": 20703,
+        "ratio": 1.8299763319325701
+    },
+    "zho_Hant": {
+        "num_tokens": 35776,
+        "num_words": 1852,
+        "ratio": 19.317494600431967
+    },
+    "tzm_Tfng": {
+        "num_tokens": 55324,
+        "num_words": 21460,
+        "ratio": 2.578005591798695
+    },
+    "nob_Latn": {
+        "num_tokens": 39997,
+        "num_words": 20802,
+        "ratio": 1.9227478127103164
+    },
+    "gaz_Latn": {
+        "num_tokens": 51448,
+        "num_words": 18710,
+        "ratio": 2.7497594869053983
+    },
+    "isl_Latn": {
+        "num_tokens": 45641,
+        "num_words": 19669,
+        "ratio": 2.3204535055162947
+    },
+    "arb_Arab": {
+        "num_tokens": 40782,
+        "num_words": 18759,
+        "ratio": 2.1739964816887896
+    },
+    "sun_Latn": {
+        "num_tokens": 37272,
+        "num_words": 19041,
+        "ratio": 1.9574602174255553
+    },
+    "mri_Latn": {
+        "num_tokens": 44764,
+        "num_words": 28674,
+        "ratio": 1.56113552347074
+    },
+    "asm_Beng": {
+        "num_tokens": 56156,
+        "num_words": 18570,
+        "ratio": 3.0240172320947765
+    },
+    "yue_Hant": {
+        "num_tokens": 34843,
+        "num_words": 1545,
+        "ratio": 22.55210355987055
+    },
+    "ita_Latn": {
+        "num_tokens": 44880,
+        "num_words": 22984,
+        "ratio": 1.952662721893491
+    },
+    "ban_Latn": {
+        "num_tokens": 38416,
+        "num_words": 19583,
+        "ratio": 1.9617014757698004
+    },
+    "zsm_Latn": {
+        "num_tokens": 37349,
+        "num_words": 19478,
+        "ratio": 1.9174966629017354
+    },
+    "bod_Tibt": {
+        "num_tokens": 86697,
+        "num_words": 1932,
+        "ratio": 44.87422360248447
+    },
+    "ibo_Latn": {
+        "num_tokens": 45693,
+        "num_words": 23464,
+        "ratio": 1.94736617797477
+    },
+    "kaz_Cyrl": {
+        "num_tokens": 51820,
+        "num_words": 16557,
+        "ratio": 3.129794044814882
+    },
+    "jpn_Jpan": {
+        "num_tokens": 47603,
+        "num_words": 1063,
+        "ratio": 44.78174976481656
+    },
+    "smo_Latn": {
+        "num_tokens": 51684,
+        "num_words": 30602,
+        "ratio": 1.688909221619502
+    },
+    "npi_Deva": {
+        "num_tokens": 44747,
+        "num_words": 17847,
+        "ratio": 2.507256121476999
+    },
+    "ckb_Arab": {
+        "num_tokens": 51581,
+        "num_words": 18501,
+        "ratio": 2.788011458840063
+    },
+    "afr_Latn": {
+        "num_tokens": 42778,
+        "num_words": 22164,
+        "ratio": 1.93006677495037
+    },
+    "mos_Latn": {
+        "num_tokens": 44849,
+        "num_words": 24408,
+        "ratio": 1.8374713208784006
+    },
+    "min_Arab": {
+        "num_tokens": 47616,
+        "num_words": 19415,
+        "ratio": 2.4525366984290495
+    },
+    "lin_Latn": {
+        "num_tokens": 38381,
+        "num_words": 22749,
+        "ratio": 1.6871510835641128
+    },
+    "cym_Latn": {
+        "num_tokens": 51032,
+        "num_words": 22939,
+        "ratio": 2.2246828545272246
+    },
+    "sna_Latn": {
+        "num_tokens": 44072,
+        "num_words": 16694,
+        "ratio": 2.639990415718222
+    },
+    "ory_Orya": {
+        "num_tokens": 60211,
+        "num_words": 18914,
+        "ratio": 3.1834091149413135
+    },
+    "kin_Latn": {
+        "num_tokens": 46062,
+        "num_words": 19414,
+        "ratio": 2.372617698568044
+    },
+    "acm_Arab": {
+        "num_tokens": 39570,
+        "num_words": 17928,
+        "ratio": 2.2071619812583667
+    },
+    "kas_Deva": {
+        "num_tokens": 52398,
+        "num_words": 23345,
+        "ratio": 2.244506318269437
+    },
+    "lua_Latn": {
+        "num_tokens": 40982,
+        "num_words": 21832,
+        "ratio": 1.8771528032246243
+    },
+    "kbp_Latn": {
+        "num_tokens": 51909,
+        "num_words": 24168,
+        "ratio": 2.147840119165839
+    },
+    "ace_Latn": {
+        "num_tokens": 40739,
+        "num_words": 20254,
+        "ratio": 2.0114051545373752
+    },
+    "ceb_Latn": {
+        "num_tokens": 43705,
+        "num_words": 24922,
+        "ratio": 1.753671454939411
+    },
+    "als_Latn": {
+        "num_tokens": 50210,
+        "num_words": 23630,
+        "ratio": 2.124841303427846
+    },
+    "fra_Latn": {
+        "num_tokens": 49425,
+        "num_words": 24146,
+        "ratio": 2.0469228857781827
+    },
+    "nus_Latn": {
+        "num_tokens": 49750,
+        "num_words": 26952,
+        "ratio": 1.8458741466310478
+    },
+    "guj_Gujr": {
+        "num_tokens": 60251,
+        "num_words": 20080,
+        "ratio": 3.0005478087649404
+    },
+    "snd_Arab": {
+        "num_tokens": 47206,
+        "num_words": 23896,
+        "ratio": 1.9754770672915969
+    },
+    "jav_Latn": {
+        "num_tokens": 36945,
+        "num_words": 19060,
+        "ratio": 1.9383525708289613
+    },
+    "tgk_Cyrl": {
+        "num_tokens": 58733,
+        "num_words": 21159,
+        "ratio": 2.7757928068434237
+    },
+    "ell_Grek": {
+        "num_tokens": 71426,
+        "num_words": 22755,
+        "ratio": 3.138914524280378
+    },
+    "bak_Cyrl": {
+        "num_tokens": 52374,
+        "num_words": 17271,
+        "ratio": 3.03248219558798
+    },
+    "ayr_Latn": {
+        "num_tokens": 45789,
+        "num_words": 15154,
+        "ratio": 3.0215784611323744
+    },
+    "uig_Arab": {
+        "num_tokens": 58280,
+        "num_words": 16893,
+        "ratio": 3.4499496833007757
+    },
+    "sin_Sinh": {
+        "num_tokens": 63370,
+        "num_words": 20213,
+        "ratio": 3.135111067135012
+    },
+    "ast_Latn": {
+        "num_tokens": 41841,
+        "num_words": 20766,
+        "ratio": 2.014880092458827
+    },
+    "srd_Latn": {
+        "num_tokens": 46867,
+        "num_words": 24434,
+        "ratio": 1.9181059179831383
+    },
+    "sot_Latn": {
+        "num_tokens": 47327,
+        "num_words": 27648,
+        "ratio": 1.7117693865740742
+    },
+    "fin_Latn": {
+        "num_tokens": 47749,
+        "num_words": 15308,
+        "ratio": 3.1192187091716748
+    },
+    "tat_Cyrl": {
+        "num_tokens": 50673,
+        "num_words": 17399,
+        "ratio": 2.9124087591240877
+    },
+    "knc_Latn": {
+        "num_tokens": 44101,
+        "num_words": 20127,
+        "ratio": 2.1911362845928357
+    },
+    "nya_Latn": {
+        "num_tokens": 41879,
+        "num_words": 18974,
+        "ratio": 2.2071782439127228
+    },
+    "ssw_Latn": {
+        "num_tokens": 44453,
+        "num_words": 15005,
+        "ratio": 2.9625458180606463
+    },
+    "yor_Latn": {
+        "num_tokens": 48102,
+        "num_words": 24344,
+        "ratio": 1.975928360170884
+    },
+    "pan_Guru": {
+        "num_tokens": 61873,
+        "num_words": 24539,
+        "ratio": 2.521414890582338
+    },
+    "bul_Cyrl": {
+        "num_tokens": 51908,
+        "num_words": 20441,
+        "ratio": 2.539406095592192
+    },
+    "kir_Cyrl": {
+        "num_tokens": 51472,
+        "num_words": 16535,
+        "ratio": 3.112912004838222
+    },
+    "bos_Latn": {
+        "num_tokens": 43600,
+        "num_words": 19462,
+        "ratio": 2.240263076764978
+    },
+    "aka_Latn": {
+        "num_tokens": 42838,
+        "num_words": 25264,
+        "ratio": 1.6956143128562382
+    },
+    "fur_Latn": {
+        "num_tokens": 45625,
+        "num_words": 25411,
+        "ratio": 1.795482271457243
+    },
+    "ltg_Latn": {
+        "num_tokens": 47954,
+        "num_words": 17252,
+        "ratio": 2.7796197542313936
+    },
+    "amh_Ethi": {
+        "num_tokens": 55450,
+        "num_words": 16891,
+        "ratio": 3.282813332543958
+    },
+    "kon_Latn": {
+        "num_tokens": 40321,
+        "num_words": 26107,
+        "ratio": 1.5444516796261538
+    },
+    "kmr_Latn": {
+        "num_tokens": 47091,
+        "num_words": 21808,
+        "ratio": 2.1593451944240645
+    },
+    "uzn_Latn": {
+        "num_tokens": 49572,
+        "num_words": 17378,
+        "ratio": 2.852572217746576
+    },
+    "ind_Latn": {
+        "num_tokens": 36060,
+        "num_words": 19069,
+        "ratio": 1.8910273218312443
+    },
+    "mai_Deva": {
+        "num_tokens": 43825,
+        "num_words": 23455,
+        "ratio": 1.8684715412492006
+    },
+    "eng_Latn": {
+        "num_tokens": 38446,
+        "num_words": 20954,
+        "ratio": 1.8347809487448696
+    },
+    "plt_Latn": {
+        "num_tokens": 50148,
+        "num_words": 21986,
+        "ratio": 2.2809060311107068
+    },
+    "arz_Arab": {
+        "num_tokens": 39255,
+        "num_words": 18684,
+        "ratio": 2.100995504174695
+    },
+    "taq_Tfng": {
+        "num_tokens": 61592,
+        "num_words": 20519,
+        "ratio": 3.001705736146986
+    },
+    "tsn_Latn": {
+        "num_tokens": 49577,
+        "num_words": 30071,
+        "ratio": 1.648664826577101
+    },
+    "war_Latn": {
+        "num_tokens": 44920,
+        "num_words": 26148,
+        "ratio": 1.7179134159400336
+    },
+    "tso_Latn": {
+        "num_tokens": 45999,
+        "num_words": 25833,
+        "ratio": 1.7806294274764836
+    },
+    "ajp_Arab": {
+        "num_tokens": 37614,
+        "num_words": 18017,
+        "ratio": 2.0876949547649444
+    },
+    "khk_Cyrl": {
+        "num_tokens": 55937,
+        "num_words": 18889,
+        "ratio": 2.9613531685107737
+    },
+    "fon_Latn": {
+        "num_tokens": 48929,
+        "num_words": 29268,
+        "ratio": 1.6717575509088425
+    },
+    "cjk_Latn": {
+        "num_tokens": 43048,
+        "num_words": 19682,
+        "ratio": 2.1871760999898386
+    },
+    "sat_Olck": {
+        "num_tokens": 58597,
+        "num_words": 22911,
+        "ratio": 2.5575924228536513
+    },
+    "cat_Latn": {
+        "num_tokens": 45202,
+        "num_words": 23308,
+        "ratio": 1.9393341342028487
+    }
+}
